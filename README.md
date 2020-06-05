@@ -9,7 +9,7 @@ This is an example to use Google Maps Distance Matrix API to calculate origin de
 
 With O-D travel time matrix, you can perform geogrpahical accessibility calculation. Geogrpahical accessibility for each municipality is the average travel time of travel to all the other municipalities. The results are showed in the image bellow.
 
-https://raw.githubusercontent.com/scardonau94/Request-Google-Distance-Matrix-Api-for-urban-zones-in-Caldas/master/assets/GA.jpg
+https://raw.githubusercontent.com/scardonau94/Request-Google-Distance-Matrix-Api-for-urban-zones-in-Caldas/master/GA.jpg
  
  
   
