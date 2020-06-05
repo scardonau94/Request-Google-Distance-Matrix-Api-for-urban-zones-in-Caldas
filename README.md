@@ -7,4 +7,25 @@ This is an example to use Google Maps Distance Matrix API to calculate origin de
 1) You need to create an API key in Google Cloud https://cloud.google.com/?hl=es
 2) Request are limited by 100 routes. So in order to calculate 1000 routes you need to do 10 request
 
-Enjoy it
+With O-D travel time matrix, you can perform geogrpahical accessibility calculation, using the equation 
+
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+ 
