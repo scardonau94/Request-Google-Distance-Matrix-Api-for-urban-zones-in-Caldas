@@ -8,8 +8,6 @@ This is an example to use Google Maps Distance Matrix API to calculate origin de
 2) Request are limited by 100 routes. So in order to calculate 1000 routes you need to do 10 request
 
 With O-D travel time matrix, you can perform geogrpahical accessibility calculation. Geogrpahical accessibility for each municipality is the average travel time of travel to all the other municipalities. The results are showed in the image bellow.
-
-https://raw.githubusercontent.com/scardonau94/Request-Google-Distance-Matrix-Api-for-urban-zones-in-Caldas/master/GA.jpg
  
 ![img](https://raw.githubusercontent.com/scardonau94/Request-Google-Distance-Matrix-Api-for-urban-zones-in-Caldas/master/GA.jpg) 
   
